@@ -1,0 +1,15 @@
+/Users/talal/Desktop/St/bin/Debug/net10.0/St
+/Users/talal/Desktop/St/bin/Debug/net10.0/St.deps.json
+/Users/talal/Desktop/St/bin/Debug/net10.0/St.runtimeconfig.json
+/Users/talal/Desktop/St/bin/Debug/net10.0/St.dll
+/Users/talal/Desktop/St/bin/Debug/net10.0/St.pdb
+/Users/talal/Desktop/St/obj/Debug/net10.0/St.GeneratedMSBuildEditorConfig.editorconfig
+/Users/talal/Desktop/St/obj/Debug/net10.0/St.AssemblyInfoInputs.cache
+/Users/talal/Desktop/St/obj/Debug/net10.0/St.AssemblyInfo.cs
+/Users/talal/Desktop/St/obj/Debug/net10.0/St.csproj.CoreCompileInputs.cache
+/Users/talal/Desktop/St/obj/Debug/net10.0/St.sourcelink.json
+/Users/talal/Desktop/St/obj/Debug/net10.0/St.dll
+/Users/talal/Desktop/St/obj/Debug/net10.0/refint/St.dll
+/Users/talal/Desktop/St/obj/Debug/net10.0/St.pdb
+/Users/talal/Desktop/St/obj/Debug/net10.0/St.genruntimeconfig.cache
+/Users/talal/Desktop/St/obj/Debug/net10.0/ref/St.dll
